@@ -2,8 +2,7 @@
 /**
  * the code starts to run from here
  *
- * the function Return: Always 0 (Success)
- */
+ * the function#include<stdio.h>
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
