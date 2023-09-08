@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* main function from which the code starts to run
+* main - Entry point
 *
-* Returns 0
+* Return: Always 0 (Success)
 */
 int main(void)
 {
