@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
- * the code starts to run from here
+ * main - Entry point
  *
- * the function#include<stdio.h>
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
